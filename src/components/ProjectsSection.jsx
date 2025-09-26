@@ -17,7 +17,7 @@ const projects = [
         Description: "A research paper on comparing and optimizing 3 different deep learning architectures (VGG16, VGG19, ResNet50) with Optuna for rice leaf disease classification. Accepted in International Conference ICOBAR 2025 with Scopus Index",
         imageUrl: "Projects/ICOBAR.png",
         Tags: ["Python", "Sklearn", "Numpy", "TensorFlow"],
-        demoUrl: "public/Projects/Optimizing Deep Learning Models with Optuna for Accurate Rice Leaf Disease Classification.pdf",
+        demoUrl: "Projects/Optimizing Deep Learning Models with Optuna for Accurate Rice Leaf Disease Classification.pdf",
         githubUrl: "https://www.kaggle.com/code/okkysr/resnet50-rice-disease-detector-model?scriptVersionId=239734493",
     },
     {
@@ -27,7 +27,7 @@ const projects = [
         imageUrl: "Projects/Premium-Catering-Website.png",
         Tags: ["HTML", "CSS", "JavaScript", "Figma"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/lowwwkyy/Premium-Catering-Website",
     },
 ]
 
